@@ -1,0 +1,17 @@
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/ExplosiveAPI.deps.json
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/ExplosiveAPI.runtimeconfig.json
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/ExplosiveAPI.runtimeconfig.dev.json
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/ExplosiveAPI.dll
+/Users/stefanbettaglio/classwork/ExplosiveAPI/bin/Debug/netcoreapp3.1/ExplosiveAPI.pdb
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.csprojAssemblyReference.cache
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.AssemblyInfoInputs.cache
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.AssemblyInfo.cs
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.RazorTargetAssemblyInfo.cache
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/staticwebassets/ExplosiveAPI.StaticWebAssets.Manifest.cache
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/staticwebassets/ExplosiveAPI.StaticWebAssets.xml
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.dll
+/Users/stefanbettaglio/classwork/ExplosiveAPI/obj/Debug/netcoreapp3.1/ExplosiveAPI.pdb
