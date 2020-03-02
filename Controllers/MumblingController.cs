@@ -31,5 +31,20 @@ namespace ExplosiveAPI.Controllers
       }
       return accum.TrimEnd('-');
     }
+
+    [HttpGet("explosion/{s}")]
+    public string Explosion(string s)
+    {
+      var answer = "";
+      foreach (var letter in s)
+      {
+        var number = int.Parse(letter.ToString());
+        for (var i = 0; i < number; i++)
+        {
+          answer += letter;
+        }
+      }
+      return answer;
+    }
   }
 }
